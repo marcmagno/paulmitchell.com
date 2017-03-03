@@ -1,0 +1,31 @@
+Paul Mitchell(r) Professional
+
+
+Your application to enroll in the Paul Mitchell Perks Program at the Signature level has not been approved at this time.
+
+
+Salon: {SALON_NAME}
+Owner: {FIRST_NAME} {LAST_NAME}
+
+
+To qualify for the Signature level, you must purchase a minimum of $1500 of Paul Mitchell products per quarter.
+
+
+{CUSTOM_EMAIL_MESSAGE}
+
+
+We invite you to apply again once you meet these requirements. In the meantime, please enjoy our professional website at {SITE_SERVER} where you'll have access to our online mall, business-building tools, education and more.
+
+
+If you have any questions, please contact {FROM_EMAIL} or view our frequently asked questions at paulmitchellpro.com/faq-contact.php. 
+
+
+Sincerely,
+The John Paul Mitchell Systems(r) Team
+
+
+
+
+
+John Paul Mitchell Systems
+PO Box 10597, Beverly Hills CA 90213-3597

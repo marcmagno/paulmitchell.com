@@ -1,0 +1,27 @@
+John Paul Mitchell Systems(r) Professional
+
+
+The following {STORE_NAME} order has just been shipped:
+
+
+{ORDER}
+
+
+To view the details of this order go to http://{SITE_SERVER}/order_details.php?iStoreOrderID={ORDER_NO}
+
+
+If you have any questions or concerns, please contact our customer service department at {STORE_RETURN_EMAIL}
+
+
+We want you to be happy! If you're not 100% satisfied with something you purchased on {SITE_SERVER}, log on to the {SITE_NAME} website and click on "Mall Order Status" to view return instructions for your order.
+
+
+Thank you for being part of our family.
+The John Paul Mitchell Systems Team
+
+
+
+
+
+John Paul Mitchell Systems
+PO Box 10597, Beverly Hills CA 90213-3597

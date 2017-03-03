@@ -1,0 +1,34 @@
+John Paul Mitchell Systems(r) Professional
+
+
+Congratulations!
+
+Your {SITE_NAME} website account has been activated!
+
+
+Please find your login information below: 
+
+Username: {USER_NAME}
+Password: {PASSWORD}
+
+
+If you have already created your password, please disregard the temporary password above.
+
+
+To begin exploring the online support available to you, log on to {SITE_SERVER}.
+
+
+You'll find exciting news, business-building tips and downloads, artistic inspiration and much more!
+
+We look forward to supporting your success!
+
+
+Thank you for being part of the Paul Mitchell family.
+The John Paul Mitchell Systems(r) Team
+
+
+
+
+
+John Paul Mitchell Systems
+PO Box 10597, Beverly Hills CA 90213-3597

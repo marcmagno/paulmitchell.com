@@ -1,0 +1,28 @@
+John Paul Mitchell Systems(r) Professional
+
+
+Thank you! Your {PROGRAM_FULL_NAME} application has been submitted to a John Paul Mitchell Systems team member for review.
+
+
+Salon: {SALON_NAME}
+Owner: {FIRST_NAME} {LAST_NAME}
+
+
+Please note: To qualify for {PROGRAM_NAME}, {PROGRAM_QUALIFICATION}.
+
+
+The {PROGRAM_FULL_NAME} offers a world of business building opportunities. Within the next 2-12 weeks, you'll be notified via email regarding the status of your application. If you don't receive notification within this timeframe, please contact {FROM_EMAIL}.
+
+
+If you have any questions, please contact the {FROM_NAME} at {FROM_EMAIL} or view our frequently asked questions at paulmitchellpro.com/faq-contact.php.
+
+
+Sincerely,
+The John Paul Mitchell Systems Team
+
+
+
+
+
+John Paul Mitchell Systems
+PO Box 10597, Beverly Hills CA 90213-3597

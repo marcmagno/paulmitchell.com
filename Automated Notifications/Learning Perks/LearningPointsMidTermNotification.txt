@@ -1,0 +1,19 @@
+John Paul Mitchell Systems(r) Professional
+Learning Perks
+
+
+CONGRATULATIONS!
+
+
+You passed your midterm and received {POINTS} points in your Learning Perks account. The Paul Mitchell family will be rooting you on as you continue your education.
+
+CHECK YOUR TOTAL POINT BALANCE and SHOP THE MALL for goodies and gear.
+
+http://{SITE_SERVER}/my_account.php
+
+
+
+
+
+John Paul Mitchell Systems
+PO Box 10597, Beverly Hills CA 90213-3597

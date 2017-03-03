@@ -1,0 +1,19 @@
+John Paul Mitchell Systems(r) Professional
+Learning Perks
+
+
+CONGRATULATIONS!
+
+
+You passed your Final Written Exam and earned {POINTS} Learning Perks points. Keep up the great work!
+
+Check your point balance and redeem your points for merchandise on The Mall.
+
+http://{SITE_SERVER}/my_account.php
+
+
+
+
+
+John Paul Mitchell Systems
+PO Box 10597, Beverly Hills CA 90213-3597

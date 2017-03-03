@@ -1,0 +1,19 @@
+John Paul Mitchell Systems(r) Professional
+Learning Perks
+
+
+YOU ROCK!
+
+
+You completed all of your school requirements on time and earned {POINTS} points to put towards purchases on The Mall.
+
+Check your point balance and redeem your points for merchandise on The Mall.
+
+http://{SITE_SERVER}/my_account.php
+
+
+
+
+
+John Paul Mitchell Systems
+PO Box 10597, Beverly Hills CA 90213-3597
